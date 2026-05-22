@@ -29,7 +29,11 @@ list_of_files = [
     "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
+<<<<<<< HEAD
     
+=======
+    "data/"
+>>>>>>> 74c640564df2d27a4e14ce5b6327800cbbfd9aef
 
 ]
 

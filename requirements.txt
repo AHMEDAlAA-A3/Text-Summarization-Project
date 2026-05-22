@@ -1,13 +1,25 @@
+<<<<<<< HEAD
 transformers
 transformers[sentencepiece]
 datasets
 sacrebleu 
 rouge_score 
+=======
+transformers 
+transformers[sentencepiece]
+datasets
+sacrebleu
+rouge_score
+>>>>>>> 74c640564df2d27a4e14ce5b6327800cbbfd9aef
 py7zr
 pandas
 nltk
 tqdm
+<<<<<<< HEAD
 PyYAML
+=======
+pyYAML
+>>>>>>> 74c640564df2d27a4e14ce5b6327800cbbfd9aef
 matplotlib
 torch
 notebook
